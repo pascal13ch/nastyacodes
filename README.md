@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Nastya
-#### I am a Computer Science student eager to become Full Stack Web Developer
+# Hi there 👋, my name is Nastya
+### I am a Computer Science student eager to become a Full Stack web developer
 ![I am a Computer Science student eager to become Full Stack Web Developer](https://cu-media.s3.amazonaws.com/images/code.jpg)
 
 I enjoy coding and everything connected with it.
@@ -12,6 +12,6 @@ Skills: HTML  / CSS / JS / NodeJS
 - 🌱 I’m currently learning Gatsby JS 
 - 😄 Pronouns: ['nʌstja] 
 
-
+#### My Social Media
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nastyacodes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nastyacodes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nastyacodes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/nastyacodes)  
 
