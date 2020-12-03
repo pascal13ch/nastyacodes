@@ -1,6 +1,7 @@
 # Hi there 👋, my name is Nastya
 ### I am a Computer Science student eager to become a Full Stack web developer
-![I am a Computer Science student eager to become Full Stack Web Developer](https://cu-media.s3.amazonaws.com/images/code.jpg)
+[//]: # (Here may be a photo)
+
 
 I enjoy coding and everything connected with it.
 Learning web development made me more confident in my skills.
@@ -15,4 +16,4 @@ Skills: HTML  / CSS / JS / NodeJS
 #### My Social Media
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nastyacodes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nastyacodes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nastyacodes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/nastyacodes)  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nastyacodes)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nastyacodes)](https://github.com/anuraghazra/github-readme-stats&hide=stars,prs,issues&count_private=true&show_icons=true&theme=synthwave)
