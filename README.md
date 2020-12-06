@@ -1,7 +1,9 @@
 # Hi there 👋, my name is Nastya
 ### I am a Computer Science student eager to become a Full Stack web developer
 [//]: # (Here may be a photo)
-![Dino](https://raw.githubusercontent.com/nastyacodes/nastyacodes/master/gif-of-dino.gif)
+
+![Dino](https://raw.githubusercontent.com/nastyacodes/nastyacodes/master/gif-of-dino.gif)  
+*The creation of the dino was inspired by [praveenscience](https://github.com/praveenscience).*  
 
 I enjoy coding and everything connected with it.
 Learning web development made me more confident in my skills.
