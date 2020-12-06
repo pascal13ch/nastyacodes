@@ -1,5 +1,6 @@
 # Hi there 👋, my name is Nastya
-### I am a Computer Science student eager to become a Full Stack web developer
+### Like this dino I am running forward to my goal to become a Full Stack Web Developer
+##### (Even without Internet connection)
 [//]: # (Here may be a photo)
 
 ![Dino](https://raw.githubusercontent.com/nastyacodes/nastyacodes/master/gif-of-dino.gif)  
@@ -17,10 +18,6 @@ Skills: HTML  / CSS / JS / NodeJS
 
 #### My Social Media
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nastyacodes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nastyacodes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nastyacodes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/nastyacodes)  
-
-
-
-[![nastyacodes's github stats](https://github-readme-stats.vercel.app/api?username=nastyacodes&count_private=true&hide=prs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastyacodes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
