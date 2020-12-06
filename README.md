@@ -16,7 +16,7 @@ Skills: HTML  / CSS / JS / NodeJS
 #### My Social Media
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nastyacodes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nastyacodes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nastyacodes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/nastyacodes)  
 
-![Dino](https://raw.githubusercontent.com/nastyacodes/nastyacodes/master/dino.gif)
+![Dino](https://raw.githubusercontent.com/nastyacodes/nastyacodes/master/gif-of-dino.gif)
 
 [![nastyacodes's github stats](https://github-readme-stats.vercel.app/api?username=nastyacodes&count_private=true&hide=prs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
