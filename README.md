@@ -21,3 +21,5 @@ Skills: HTML  / CSS / JS / NodeJS
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastyacodes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nastyacodes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
