@@ -19,6 +19,9 @@ Skills: HTML  / CSS / JS / NodeJS
 #### My Social Media
 [<img src='github.ico' alt='github' height='50'>](https://github.com/nastyacodes) &nbsp;&nbsp; [<img src='instagram.ico' alt='instagram' height='50'>](https://www.instagram.com/nastyacodes/) &nbsp;&nbsp; [<img src='twitter.ico' alt='twitter' height='50'>](https://twitter.com/nastyacodes)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastyacodes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nastyacodes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastyacodes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nastyacodes&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
