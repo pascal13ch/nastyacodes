@@ -17,8 +17,7 @@ Skills: HTML  / CSS / JS / NodeJS
 - 😄 Pronouns: ['nʌstja] 
 
 #### My Social Media
-[<img src='github.png' alt='github' height='40'>](https://github.com/nastyacodes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nastyacodes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nastyacodes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/nastyacodes)  
-
+[<img src='github.ico' alt='github' height='50'>](https://github.com/nastyacodes) &nbsp;&nbsp; [<img src='instagram.ico' alt='instagram' height='50'>](https://www.instagram.com/nastyacodes/) &nbsp;&nbsp; [<img src='twitter.ico' alt='twitter' height='50'>](https://twitter.com/nastyacodes)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastyacodes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
