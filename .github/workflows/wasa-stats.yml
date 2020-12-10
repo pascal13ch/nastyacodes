@@ -1,17 +1,10 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
-    inputs:
-      release-version:
-        description: 'Release version tag'
-        default: 'v1.0.0'
-        required: true
-
-on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
