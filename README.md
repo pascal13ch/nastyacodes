@@ -3,7 +3,7 @@
 ##### (Even without Internet connection)
 [//]: # (Here may be a photo)
 
-![Dino](https://raw.githubusercontent.com/nastyacodes/nastyacodes/master/gif-of-dino.gif)  
+![Dino](https://raw.githubusercontent.com/nastyacodes/nastyacodes/master/images/gif-of-dino.gif)  
 *The creation of the dino was inspired by [praveenscience](https://github.com/praveenscience).*  
 
 I enjoy coding and everything connected with it.
@@ -17,7 +17,7 @@ Skills: HTML  / CSS / JS / NodeJS
 - 😄 Pronouns: ['nʌstja] 
 
 #### My Social Media
-[<img src='github.ico' alt='github' height='50'>](https://github.com/nastyacodes) &nbsp;&nbsp; [<img src='instagram.ico' alt='instagram' height='50'>](https://www.instagram.com/nastyacodes/) &nbsp;&nbsp; [<img src='twitter.ico' alt='twitter' height='50'>](https://twitter.com/nastyacodes)  
+[<img src='images\social-media\github.ico' alt='github' height='50'>](https://github.com/nastyacodes) &nbsp;&nbsp; [<img src='images\social-media\instagram.ico' alt='instagram' height='50'>](https://www.instagram.com/nastyacodes/) &nbsp;&nbsp; [<img src='images\social-media\twitter.ico' alt='twitter' height='50'>](https://twitter.com/nastyacodes)  
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
