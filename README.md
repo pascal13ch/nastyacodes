@@ -3,7 +3,7 @@
 ##### (Even without Internet connection)
 [//]: # (Here may be a photo)
 
-![Dino](https://raw.githubusercontent.com/nastyacodes/nastyacodes/master/images/gif-of-dino.gif)  
+![Dino](https://raw.githubusercontent.com/nastyacodes/nastyacodes/master/images/dino.gif)  
 *The creation of the dino was inspired by [praveenscience](https://github.com/praveenscience).*  
 
 I enjoy coding and everything connected with it.
