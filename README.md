@@ -8,7 +8,16 @@ I enjoy coding and everything connected with it.
 Learning web development made me more confident in my skills.
 Programming is definitely a sphere where I can put my knowledge into what I love doing.
 
-Skills: Git / HTML / CSS / JS / NodeJS / GatsbyJS
+### **My Stack**
+
+<div>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+</div>
 
 #### My Social Media
 [<img src='images\social-media\github.ico' alt='github' height='50'>](https://github.com/nastyacodes) &nbsp;&nbsp; [<img src='images\social-media\instagram.ico' alt='instagram' height='50'>](https://www.instagram.com/nastyacodes/) &nbsp;&nbsp; [<img src='images\social-media\twitter.ico' alt='twitter' height='50'>](https://twitter.com/nastyacodes)  
