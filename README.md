@@ -4,11 +4,9 @@
 
 ![Google Search](https://raw.githubusercontent.com/nastyacodes/nastyacodes/master/images/google.gif)
 
-I enjoy coding and everything connected with it.
-Learning web development made me more confident in my skills.
-Programming is definitely a sphere where I can put my knowledge into what I love doing.
+I enjoy creating beautiful and useful things with code. Each and every line of code put me closer to my main goal - becoming a full stack web developer. **Do you want to follow me on my way?**
 
-### **My Stack**
+### My Stack
 
 <div>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
