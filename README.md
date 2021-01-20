@@ -5,9 +5,9 @@
 ![Google Search](https://raw.githubusercontent.com/nastyacodes/nastyacodes/master/images/google.gif)
 
 #### I enjoy creating beautiful and useful things with code. Each and every line of code puts me a little closer to my main goal - becoming a full stack web developer. 
-### Do you want to follow me on my way?
+#### *Do you want to follow me on my way?*
 
-## My Stack
+### My Stack
 
 <div>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
-#### My Social Media
+### My Social Media
 [<img src='images\social-media\github.ico' alt='github' height='50'>](https://github.com/nastyacodes) &nbsp;&nbsp; [<img src='images\social-media\instagram.ico' alt='instagram' height='50'>](https://www.instagram.com/nastyacodes/) &nbsp;&nbsp; [<img src='images\social-media\twitter.ico' alt='twitter' height='50'>](https://twitter.com/nastyacodes)  
 
 <!--START_SECTION:waka-->
