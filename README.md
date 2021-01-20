@@ -5,9 +5,9 @@
 ![Google Search](https://raw.githubusercontent.com/nastyacodes/nastyacodes/master/images/google.gif)
 
 #### I enjoy creating beautiful and useful things with code. Each and every line of code puts me a little closer to my main goal - becoming a full stack web developer. 
-## Do you want to follow me on my way?
+### Do you want to follow me on my way?
 
-### My Stack
+## My Stack
 
 <div>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
