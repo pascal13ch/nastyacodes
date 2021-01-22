@@ -25,7 +25,7 @@
 <div>  
   <img alt="Node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-  <img alt="Gatsby.js" src="https://img.shields.io/badge/gatsby%20-%2343853D.svg?&style=for-the-badge&logo=gatsby&logoColor=white"/>
+  <img alt="Gatsby.js" src="https://img.shields.io/badge/gatsby%20-%23563D7C.svg?&style=for-the-badge&logo=gatsby&logoColor=white"/>
 </div>
 <div>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
