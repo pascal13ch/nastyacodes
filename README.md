@@ -1,13 +1,12 @@
 # Hi there 👋, my name is Nastya
-### 
 [//]: # (Here may be a photo)
 
 ![Google Search](https://raw.githubusercontent.com/nastyacodes/nastyacodes/master/images/google.gif)
 
-#### I enjoy creating beautiful and useful things with code. Each and every line of code puts me a little closer to my main goal - becoming a full stack web developer. 
-#### *Do you want to follow me on my way?*
+### I enjoy creating beautiful and useful things with code. Each and every line of code puts me a little closer to my main goal - becoming a full stack web developer. 
+### *Do you want to follow me on my way?*
 
-### My Stack
+## My Stack
 
 <div>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -35,10 +34,10 @@
   <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 </div>
 
-### *Currently Learning*
+## *Currently Learning*
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-### My Social Media
+## My Social Media
 [<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/nastyacodes) &nbsp;&nbsp; [<img alt="Instagram" src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/nastyacodes/) &nbsp;&nbsp; [<img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/nastyacodes)  
 
 <!--START_SECTION:waka-->
